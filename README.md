@@ -24,6 +24,17 @@ Production-ready Amazon EKS infrastructure with Karpenter for intelligent node a
 
 ---
 
+## 🚀 Quick Start
+
+### Clone the Repository
+\`\`\`bash
+git clone https://github.com/Sachin28102001/voicetree-eks-assignment.git
+cd voicetree-eks-assignment
+\`\`\`
+
+Now proceed with the [Prerequisites](#prerequisites) section below.
+
+
 ## 🎯 Overview
 
 This project implements a production-grade EKS cluster with Karpenter for dynamic node scaling. Everything is managed as Infrastructure as Code using Terraform - no manual kubectl or YAML file applications needed.
